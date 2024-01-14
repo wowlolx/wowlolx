@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdullah
+- 👋 Hi, I’m @wowlolx
 - 👀 I’m interested in Cyber_Security
 - 🌱 I’m currently learning web exploitation and active directory
 - 💞️ I’m looking to collaborate on Coding and Hacking Projects and tools
